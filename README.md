@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Agrawal
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and Web Development
 - 📫 How to reach me ... just mail me on agarwalshivam834@gmail.com
 
 <!---
