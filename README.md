@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Agrawal
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding and I love to explore and learn new things related to technology.
 - 🌱 I’m currently learning DSA and Web Development
 - 📫 How to reach me ... just mail me on agarwalshivam834@gmail.com
 
