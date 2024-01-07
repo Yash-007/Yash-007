@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash Agrawal
 - 👀 I’m interested in Coding and I love to explore and learn new things related to technology.
 - 🌱 I’m currently learning DSA and Web Development
-- 📫 How to reach me ... just mail me on agarwalshivam834@gmail.com
+- 📫 How to reach me ... just mail me on yashagrawal.30.08@gmail.com
 
 <!---
 Yash-007/Yash-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
