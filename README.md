@@ -8,7 +8,7 @@ I'm Yash Agrawal, a passionate Software Developer. As a dedicated full-stack dev
 - ACM ICPC Regionalist 2023-2024.
 - Specialist on Codeforces.
 - 3-star rated on Codechef.
-- Tackled over 1000 algorithmic questions on various platforms.
+- Tackled over 1000 data structures and algorithmic questions on various platforms.
 
 
 Apart from coding, I find joy in reading books, articles, and blogs on the internet. This love for learning fuels my belief in consistency and hard work. Each day is an opportunity for me to enhance my skills and contribute to the ever-evolving landscape of technology.
