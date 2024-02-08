@@ -3,7 +3,21 @@
 - 🌱 I’m currently learning DSA and Web Development
 - 📫 How to reach me ... just mail me on yashagrawal.30.08@gmail.com
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+# My HTML README
+
+<p>This is a paragraph of text in my HTML README file.</p>
+
+<h2>Features</h2>
+<ul>
+  <li>Feature 1</li>
+  <li>Feature 2</li>
+  <li>Feature 3</li>
+</ul>
+
+<code>npm install</code> to install dependencies.
+
+<h3>Usage</h3>
+<p>Describe how to use your project here.</p>
 
 
 <!---
