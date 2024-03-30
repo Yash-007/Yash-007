@@ -17,7 +17,7 @@ Apart from coding, I find joy in reading books, articles, and blogs on the inter
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-agrawal-514974229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yash Agrawal" height="30" width="40" /></a>
-<a href="https://twitter.com/agrawal_ya17233" target="blank"><img align="center" src="https://s3-alpha.figma.com/hub/file/3895667468/c9e44cf2-c903-4386-9ef4-c68f26b71b85-cover.png" alt="Yash Agrawal" height="30" width="40" /></a>
+<a href="https://twitter.com/agrawal_ya17233" target="blank"><img align="center" src="https://agriwaste.com/wp-content/uploads/2023/12/xLogo.png" alt="Yash Agrawal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Yash_92" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="Yash Agrawal" height="30" width="40" /></a>
 </p>
  
