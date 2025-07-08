@@ -3,15 +3,16 @@
 
 I'm Yash Agrawal, a passionate Software Developer. As a dedicated full-stack developer, I thrive on the dynamic challenges of coding and constantly seek opportunities to explore and learn new facets of technology.
 
-## Achievements
-
+## About Me
+- SDE at CoinSwitch
+- Ex- TruEstate, Flynaut
 - ACM ICPC Regionalist 2023-2024.
 - Specialist on Codeforces.
 - 3-star rated on Codechef.
 - Tackled over 1000 data structures and algorithmic questions on various platforms.
 
 
-Apart from coding, I find joy in reading books, articles, and blogs on the internet. This love for learning fuels my belief in consistency and hard work. Each day is an opportunity for me to enhance my skills and contribute to the ever-evolving landscape of technology.
+I’m driven by curiosity, a love for problem-solving, and a mindset rooted in consistency and deep work. When I’m not coding, you’ll find me exploring books, blogs, and long-form content that challenge how I think and help me grow.
 
 
 <h3 align="left">Connect with me:</h3>
