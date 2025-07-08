@@ -8,7 +8,6 @@ I'm Yash Agrawal, a passionate Software Developer. As a dedicated full-stack dev
 - Ex-TruEstate, Flynaut
 - ACM ICPC Regionalist 2023-2024.
 - Specialist on Codeforces.
-- 3-star rated on Codechef.
 - Tackled over 1000 data structures and algorithmic questions on various platforms.
 
 
