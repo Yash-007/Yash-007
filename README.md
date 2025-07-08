@@ -5,7 +5,7 @@ I'm Yash Agrawal, a passionate Software Developer. As a dedicated full-stack dev
 
 ## About Me
 - SDE at CoinSwitch
-- Ex- TruEstate, Flynaut
+- Ex-TruEstate, Flynaut
 - ACM ICPC Regionalist 2023-2024.
 - Specialist on Codeforces.
 - 3-star rated on Codechef.
