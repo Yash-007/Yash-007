@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Agrawal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-I'm Yash Agrawal, a passionate Software Developer. As a dedicated full-stack developer, I thrive on the dynamic challenges of coding and constantly seek opportunities to explore and learn new facets of technology.
+I'm Yash Agrawal, a passionate Software Developer. As a dedicated full-stack developer, I thrive on the dynamic challenges of coding and constantly seek opportunities to explore and learn new facets of technology. You can reach me at yash.agrawal.30.08@gmail.com.
 
 ## About Me
 - SDE-1 CoinSwitch
-- Ex-TruEstate, Flynaut
+- Ex-TruEstate, Flynaut, Nanostack
 - ACM ICPC Regionalist 2023-2024.
 - Specialist on Codeforces.
 - Tackled over 1000 data structures and algorithmic questions on various platforms.
@@ -35,7 +35,7 @@ I’m driven by curiosity, a love for problem-solving, and a mindset rooted in c
  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:353/1*lJY86WV3-67GbEcvvMTpwQ.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-dl3neb73.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgQMzn0YMKrVoAUor6L556kVSwUDQjJEAFtw&s" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 
